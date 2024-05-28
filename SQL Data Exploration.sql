@@ -1,6 +1,6 @@
---select * from projectportfoliodb..CovidDeaths
+select * from projectportfoliodb..CovidDeaths
 
---select * from projectportfoliodb..CovidVaccinations
+select * from projectportfoliodb..CovidVaccinations
 
 
 select location, date, population,total_cases,total_deaths
